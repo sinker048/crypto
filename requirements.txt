@@ -1,0 +1,8 @@
+Backtesting==0.3.3
+backtrader==1.9.76.123
+python-binance==1.0.16
+tqdm==4.64.0
+pandas==1.4.2
+matplotlib==3.5.2
+torch
+keras
