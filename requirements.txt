@@ -4,5 +4,6 @@ python-binance==1.0.16
 tqdm==4.64.0
 pandas==1.4.2
 matplotlib==3.5.2
+mplfinance==0.12.9b1
 torch
 keras
