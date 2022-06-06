@@ -4,7 +4,7 @@
 
 2. start the predict.ipynb
 
-You can collect crypto currency data. You can gat the ohlc crypto currency data.
+You can collect crypto currency data. You can get the ohlc crypto currency data.
 
 We select ETH as an example.
 
