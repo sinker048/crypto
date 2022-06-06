@@ -6,6 +6,10 @@
 
 You can collect crypto currency data. You can gat the ohlc crypto currency data.
 
+We select ETH as an example.
+
+![image](https://github.com/sinker048/crypto/blob/main/ETH.png)
+
 You can build the transformer model. Train the transformer model.
 
 You can predict the crypto currency data by transformer model.
