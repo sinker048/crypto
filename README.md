@@ -13,3 +13,7 @@ We select ETH as an example.
 You can build the transformer model. Train the transformer model.
 
 You can predict the crypto currency data by transformer model.
+
+Here is my prediction on ETH data.
+
+![image](https://github.com/sinker048/crypto/blob/main/Prediction.png)
